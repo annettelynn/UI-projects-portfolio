@@ -6,29 +6,29 @@ Alongside data [(view my data dashboards)](https://github.com/annettelynn/data-d
 
 ## II. Projects
 
-### [   1. Embrace - Proactive health tracking for the elderly](#)
-Embrace is a wearable and app system built to help families keep an eye on elderly health. The device continuously monitors heart rate, blood pressure, and blood oxygen levels, catching unusual changes early and pushing alerts to a companion mobile app before things become emergencies. It also tracks sleep patterns and medication schedules. The part I'm most proud of is the fall detection flow. When the system senses a fall or a possible loss of consciousness, it triggers a strong vibration to check if the wearer responds. If there's no reaction within 30 seconds, it automatically sends an emergency alert with GPS location to family members and a support center. I built both the prototype and the website end to end. I'll be sharing both.
+###    1. Embrace - Proactive health tracking for the elderly
+Embrace is a wearable and app system built to help families keep an eye on elderly health. The device continuously monitors heart rate, blood pressure, and blood oxygen levels, catching unusual changes early and pushing alerts to a companion mobile app before things become emergencies. It also tracks sleep patterns and medication schedules. The part I'm most proud of is the fall detection flow. When the system senses a fall or a possible loss of consciousness, it triggers a strong vibration to check if the wearer responds. If there's no reaction within 30 seconds, it automatically sends an emergency alert with GPS location to family members and a support centre. I built the prototype and the website end-to-end.
 
 - [App Prototype](https://www.figma.com/proto/YxBaRIchwmidsFNQJR07sH/Embrace?node-id=167-1043&starting-point-node-id=167%3A1043&t=KfeTJX4151oZ9LM3-1)
 - Landing page: https://embracesmartwatch.framer.website/
 
 https://github.com/user-attachments/assets/042249b2-d3cc-4dce-83dc-244d8c040020
 
-### [   2. Breathe. Light. Drink. - Early warning system for climate risk](#)
+###    2. Breathe. Light. Drink. - Early warning system for climate risk
 Built for a competition, this project tackles a real gap in ASEAN's most climate-vulnerable communities: most warning systems assume people are online and connected, which isn't always true. We combined data on heat, air pollution, power outages, and water scarcity into a single Compounded Climate Pulse Index (CCPI), developed using SAP. The system is designed to reach even offline villages, giving people enough lead time to act before conditions turn dangerous.
 
 https://github.com/user-attachments/assets/b6afd2ef-0046-40aa-ae36-597f11dc15cf
 
 
-### [   3. CC AI Rabbit - AAC support for neurodivergent children](#)
-CC AI Rabbit is an AI-powered AAC startup built to help autistic and neurodivergent children communicate more easily. The system learns a child's individual communication patterns and emotional triggers over time, generating contextually relevant words while also supporting stress regulation in the moment. It's been selected for the VentureX Incubation Program, placed 2nd runner-up at the AIHub Challenge, and is now partnered with the Vietnam Association for the Support of Disabled Children. I joined as a core product member and designed the first prototype for the team.
+###    3. CC AI Rabbit - AAC support for neurodivergent children
+CC AI Rabbit is an AI-powered AAC startup built to help autistic and neurodivergent children communicate more easily. The system learns a child's individual communication patterns and emotional triggers over time, generating contextually relevant words while also supporting stress regulation in the moment. It's been selected for the VentureX Incubation Program, placed 2nd runner-up at the AIHub Challenge, and is now partnered with the Vietnam Association for the Support of Disabled Children. I joined as a core product member and designed a prototype.
 
 - [App Prototype](https://www.figma.com/proto/tm8jUbIbhLxarrPYDifps2/CC-AI-Rabbit?node-id=26-926&p=f&t=K9cx1KRQmwPLF7Jc-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=26%3A926)
 
 https://github.com/user-attachments/assets/7120ceee-d183-4b77-94ac-25f66c9831c5
 
-### [   4. Debatium - Matchmaking for the debate community](#)
-Debatium exists because organizing a debate spar shouldn't require a group chat and a spreadsheet. It's a matchmaking platform that pairs debaters and judges based on skill, availability, and format, while also digitizing performance portfolios that debaters can carry with them. I spent two years inside the debate community myself before co-building this with the team. As part of the product team, I worked through the usual pile of (super lovely) product documents, and also contributed to the UI design and landing page. What's shared here is prototype work only.
+###    4. Debatium - Matchmaking for the debate community
+Debatium exists because organising a debate spar shouldn't require a group chat and a spreadsheet. It's a matchmaking platform that pairs debaters and judges based on skill, availability, and format, while also digitising performance portfolios that debaters can carry with them. I spent two years inside the debate community myself before co-building this with the team. As part of the product team, I worked through the usual pile of (super lovely) product documents and also contributed to the UI design and landing page. What's shared here is prototype work only.
 
 <table>
   <tr>
